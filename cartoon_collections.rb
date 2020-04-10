@@ -25,5 +25,13 @@ def list_dwarves(array)
   index = array.each_with_index + 1
   array.each do |dwarf|
     puts "#{index}. #{dwarf.capitalize}"
+    
+    
+#     hash = Hash.new
+# %w(cat dog wombat).each_with_index { |item, index|
+#   hash[item] = index
+# }
+# hash   #=> {"cat"=>0, "dog"=>1, "wombat"=>2}
+    
   end
 end
