@@ -1,3 +1,5 @@
+require 'pry'
+
 def greet_characters(array)
   
   # characters_array = ["Hoggle", "Ludo", "Sir Didymus"]
