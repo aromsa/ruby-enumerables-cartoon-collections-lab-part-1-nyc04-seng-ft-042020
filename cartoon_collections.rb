@@ -1,7 +1,9 @@
 def greet_characters(array)
   
   # characters_array = ["Hoggle", "Ludo", "Sir Didymus"]
-    
+    # Hello Hoggle!
+    # Hello Ludo!
+    # Hello Sir Didymus!
   
   # Use `each` to enumerate over the provided array
   #
