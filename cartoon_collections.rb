@@ -8,8 +8,8 @@ def greet_characters(array)
   # Use `each` to enumerate over the provided array
   #
   # Print a custom greeting for each element
-  array.each do |element|
-    
+  array.each do |character|
+    puts "#{character}"
     
   #   oppressed_workers.each do |oppressed_worker|
   # puts "#{oppressed_worker.capitalize} wants to start a union!"
