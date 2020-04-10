@@ -13,8 +13,6 @@ def greet_characters(array)
     
   #   oppressed_workers.each do |oppressed_worker|
   # puts "#{oppressed_worker.capitalize} wants to start a union!"
-end
-    
   end 
 end
 
