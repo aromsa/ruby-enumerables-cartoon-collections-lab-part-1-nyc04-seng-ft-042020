@@ -29,5 +29,5 @@ def list_dwarves(array)
     dwarf_array << "#{index}. #{dwarf.capitalize}"
     
   end
-  dwarf_hash
+  dwarf_array
 end
