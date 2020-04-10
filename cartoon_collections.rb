@@ -37,5 +37,5 @@ def list_dwarves(array)
     
     
   end
-  #dwarf_hash
+  dwarf_hash
 end
