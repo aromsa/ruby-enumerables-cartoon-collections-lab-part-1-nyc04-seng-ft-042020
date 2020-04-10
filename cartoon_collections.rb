@@ -24,7 +24,7 @@ def list_dwarves(array)
   # Print a numbered list of each element
   
   #index = array.each_with_index + 1
-  dwarf_hash = {}
+  dwarf_hash = Hash.new
   array.each_with_index do |dwarf, index|
     dwarf_hash[dwarf] = index
     #"#{index}. #{dwarf.capitalize}"
