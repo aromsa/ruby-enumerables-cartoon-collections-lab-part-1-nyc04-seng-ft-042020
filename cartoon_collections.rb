@@ -4,6 +4,11 @@ def greet_characters(array)
   # Print a custom greeting for each element
   array.each do |element|
     
+    
+  #   oppressed_workers.each do |oppressed_worker|
+  # puts "#{oppressed_worker.capitalize} wants to start a union!"
+end
+    
   end 
 end
 
