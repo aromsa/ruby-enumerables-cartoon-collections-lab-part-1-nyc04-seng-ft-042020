@@ -36,5 +36,5 @@ def list_dwarves(array)
 # hash   #=> {"cat"=>0, "dog"=>1, "wombat"=>2}
     
   end
-  dwarf_hash
+  #dwarf_hash
 end
